@@ -1,0 +1,7 @@
+C:\Users\manik\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\manik\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\manik\source\repos\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\manik\source\repos\Project 2\Project 2\obj\Debug\Project 2.csprojAssemblyReference.cache
+C:\Users\manik\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\manik\source\repos\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\manik\source\repos\Project 2\Project 2\obj\Debug\Project 2.pdb
